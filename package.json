@@ -79,7 +79,7 @@
     "chai-equal-jsx": "^1.0.9",
     "css-loader": "^0.28.11",
     "file-loader": "^1.1.11",
-    "gh-pages": "^1.2.0",
+    "gh-pages": "^5.0.0",
     "ignore-styles": "^5.0.1",
     "jsdom": "^11.12.0",
     "jsdom-global": "^3.0.2",
